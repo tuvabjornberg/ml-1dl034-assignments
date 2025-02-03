@@ -1,6 +1,6 @@
 # Powershell script for venv setup and activation
 
-Write-Host "ACTIVATING WACS" 
+Write-Host "ACTIVATING" 
 
 $VENV_NAME = ".venv"
 $REQ_FILE = "requirements.txt"
