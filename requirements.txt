@@ -5,3 +5,5 @@ ipykernel
 pandas
 scikit-learn==1.6.0
 seaborn
+scikit-image
+tqdm
